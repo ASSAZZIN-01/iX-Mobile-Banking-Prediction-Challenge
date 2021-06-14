@@ -21,7 +21,7 @@ Solution Code Pipeline :
       1.3 Fillna Age With Mean Age .
      
    2. Modeling : 
-      I trained an LGBM Model on each region separetaly so this well help our model to generalize well    
+      I trained an LGBM Model on each region separately  so this will help our model to generalize well    
 ```
 
 
