@@ -7,7 +7,15 @@ The objective of this challenge is to build a machine learning model to predict 
 ## About this code
 
 ```
-# this Repository contains an Unofficial Winning Solution Code for this Challenge .  Enjoy !
+# This Repository contains an Unofficial Winning Solution Code for this Challenge .  Enjoy !
+
+# Notebook Pipeline : 
+  ## 1. Data Processing : 
+   ###   1.1 Remove Columns with more than 80% Nans 
+   ###   1.2 Fillna FQ Features with -1 
+   ###   1.3 Fillna Age With Mean Age .
+  ## 2. Modeling : 
+   ###   I trained each region separetaly so the model can generalize well    
 ```
 
 
