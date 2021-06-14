@@ -15,7 +15,7 @@ The objective of this challenge is to build a machine learning model to predict 
    ###   1.2 Fillna FQ Features with -1 
    ###   1.3 Fillna Age With Mean Age .
   ## 2. Modeling : 
-   ###   I trained each region separetaly so the model can generalize well    
+   ###   I trained an LGBM Model on each region separetaly so this well help our model to generalize well    
 ```
 
 
